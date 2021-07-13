@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
-
-<a href="mailto: chethanpoojary170@gmail.com">
+<a href="mailto:chethanpoojary170@gmail.com">
   <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
 </a>
 <a href="https://www.linkedin.com/in/chethan-n-72a4b919b/">
@@ -22,3 +21,17 @@
 <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg">
 <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeigniter.svg">
 <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg">
+
+<br /><br />
+
+<!--   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chethan-170&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chethan-170&theme=tokyonight) -->
+
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Chethan-170&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Chethan-170&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Chethan-170&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Chethan-170&hide=php&theme=tokyonight" />
+</a>
+</div>

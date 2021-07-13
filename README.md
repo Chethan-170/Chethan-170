@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **chethanpoojary170@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 
 <a href="mailto: chethanpoojary170@gmail.com">

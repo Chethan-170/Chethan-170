@@ -15,16 +15,21 @@
 </a>
 <br />
 
-<!-- <h3 align="left">Languages:</h3>
+<h3 align="left">Languages:</h3>
+<img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">
+<img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg">
 <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
-<img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeigniter.svg">
-<img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg">
-<br/> -->
+<img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg">
+<img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dart.svg">
+<img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg">
+<br/>
 <h3 align="left">Technologies:</h3>
 <img align="left" width="25" alt="hi" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">
 <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/dev/react.svg">
 <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg">
 <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeigniter.svg">
+<img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg">
+<img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg">
 <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg">
 
 <br /><br />

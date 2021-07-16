@@ -16,7 +16,9 @@
 <br />
 
 <h3 align="left">Languages:</h3>
-<img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">
+<a href="#" title="Bootstrap">
+  <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg">
+</a>
 <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg">
 <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg">
 <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg">

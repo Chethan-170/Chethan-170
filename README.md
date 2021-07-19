@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/chethan-n-72a4b919b/">
   <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
-<a href="https://www.linkedin.com/in/chethan-n-72a4b919b/">
+<a href="https://dev.to/chethan170">
   <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg">
 </a>
 <br />

@@ -7,7 +7,7 @@
 <a href="mailto:chethanpoojary170@gmail.com">
   <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
 </a>
-<a href="https://www.linkedin.com/in/chethan-170">
+<a href="https://www.linkedin.com/in/chethan-170/">
   <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
 <a href="https://dev.to/chethan170">

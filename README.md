@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chethan</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:chethanpoojary170@gmail.com">
@@ -38,6 +38,9 @@
   <img align="left" width="25" alt="hi" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/node-dot-js.svg">
 </a>
 <a href="https://reactjs.org/" title="React">
+  <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/dev/react.svg">
+</a>
+<a href="https://reactnative.dev/" title="React Native">
   <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/svg-icon@0.8.2/dist/svg/dev/react.svg">
 </a>
 <a href="https://nextjs.org/" title="Next">

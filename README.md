@@ -52,15 +52,6 @@
 <a href="https://codeigniter.com/" title="Codeigniter">
   <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeigniter.svg">
 </a>
-<a href="https://www.djangoproject.com/" title="Django">
-  <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg">
-</a>
-<a href="https://www.mongodb.com/" title="Mongodb">
-  <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg">
-</a>
-<a href="https://firebase.google.com/" title="Firebase">
-  <img align="left" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg">
-</a>
 
 <br /><br />
 <!--   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chethan-170&show_icons=true&theme=tokyonight)
